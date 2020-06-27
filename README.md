@@ -1,4 +1,4 @@
-# HTML EXECUTOR
+# HTML Executor
 A python script to execute multiple HTML files at the [Epiphany web browser](https://github.com/GNOME/epiphany) and check if they caused any errors
 
 ## Usage
