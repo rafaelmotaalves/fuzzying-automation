@@ -12,5 +12,5 @@ To install the needed dependencies on a Debian based linux distro execute:
 To use execute the all the HTMLs at a given directory execute:
 
 ```bash
-    python3 executor.py /path/to/directory
+    python3 executor.py /path/to/input /path/to/results
 ```
