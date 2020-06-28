@@ -1,0 +1,3 @@
+[submodule "domato"]
+	path = domato
+	url = git@github.com:googleprojectzero/domato.git
