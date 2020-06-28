@@ -6,6 +6,8 @@ install:
 	sudo apt install webkit2gtk-driver epiphany-browser -y
 	# install python script dependencies 
 	pip3 install --user -r requirements.txt
+	# install domato
+	git submodule update --init
 
 run:
 	python domato/generator.py --output_dir html --no_of_files $(NUM_FILES)
